@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo tranquilpeak theme</title>
+    <link>https://zxk0nly1.gitee.io/hugoblog/posts/</link>
+    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2020 23:07:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://zxk0nly1.gitee.io/hugoblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Myblog</title>
+      <link>https://zxk0nly1.gitee.io/hugoblog/posts/myblog/</link>
+      <pubDate>Sun, 31 May 2020 23:07:47 +0800</pubDate>
+      
+      <guid>https://zxk0nly1.gitee.io/hugoblog/posts/myblog/</guid>
+      <description>从Hexo博客迁移到了Hugo博客 我通过一段时间的Hexo博客的使用，发现了Hexo博客的各种不方便，在B站Up主CodeSheep的视频指导之下，决定把博客从Hexo类型转移为Hugo类型
+这篇文档就是第一次使用Hugo博客搭建的，但是搭建过程也是经历了各种曲折，终于是完成了Hugo博客的搭建了，开心开心开心！！！</description>
+    </item>
+    
+  </channel>
+</rss>

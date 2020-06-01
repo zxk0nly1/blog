@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://zxk0nly1.gitee.io/hugoblog/test/</loc>
+    <lastmod>2020-06-01T10:34:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zxk0nly1.gitee.io/hugoblog/myblog/</loc>
+    <lastmod>2020-06-01T10:28:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zxk0nly1.gitee.io/hugoblog/</loc>
+    <lastmod>2020-06-01T10:24:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zxk0nly1.gitee.io/hugoblog/tags/myblog/</loc>
+    <lastmod>2020-06-01T10:24:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zxk0nly1.gitee.io/hugoblog/tags/</loc>
+    <lastmod>2020-06-01T10:24:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zxk0nly1.gitee.io/hugoblog/posts/myblog/</loc>
+    <lastmod>2020-05-31T23:07:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zxk0nly1.gitee.io/hugoblog/posts/</loc>
+    <lastmod>2020-05-31T23:07:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zxk0nly1.gitee.io/hugoblog/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zxk0nly1.gitee.io/hugoblog/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zxk0nly1.gitee.io/hugoblog/tags/</loc>
+  </url>
+  
+</urlset>
